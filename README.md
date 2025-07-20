@@ -121,7 +121,7 @@ Enhanced comparison saved to outputs/comparison.png
 
 **Sample Output:**
 
-![Stylized Result](outputs/stylized_result.png)
+![Stylized Result](outputs/comparison.png)
 
 ## <div align="center"><u>Output Files</u></div>
 
