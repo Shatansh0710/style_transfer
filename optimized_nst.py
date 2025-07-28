@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-"""
-Optimized Neural Style Transfer - Enhanced Implementation (FIXED)
-================================================================
-
-Fixed version addressing Pylance errors:
-- Fixed .item() calls on float values
-- Added proper closure function handling
-- Fixed optimizer step() calls
-- Added proper tensor type checking
-
-Author: Enhanced Version (Fixed)
-Date: 2025
-"""
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -570,7 +555,6 @@ def main():
 
 
 if __name__ == "__main__":
-    # Enhanced example usage
     import sys
     
     if len(sys.argv) == 1:
